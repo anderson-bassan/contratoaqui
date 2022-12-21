@@ -25,6 +25,6 @@ app.get('/', (req, res) => {
 /* == APP START == */
 
 
-app.listen(80, () => {
+app.listen(10000, () => {
 	console.log('up \'n running');
 })
